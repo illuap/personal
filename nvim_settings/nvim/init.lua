@@ -1,2 +1,3 @@
 require("pli")
-require("plugins")
+-- require("plugins")
+
